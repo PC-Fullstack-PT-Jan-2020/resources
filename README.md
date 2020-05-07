@@ -78,7 +78,7 @@
 
 [free awesome redux resource (by the creator of redux on egghead.io)](https://egghead.io/courses/getting-started-with-redux)
 
-[online classes - wait for the 10-15 dollar deals each month!](https://www.udemy.com/)
+[online classes (Udemy) - wait for the 10-15 dollar deals each month!](https://www.udemy.com/)
 
 [Front End Masters - 40 dollars a month](https://frontendmasters.com/)
 
