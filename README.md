@@ -97,6 +97,7 @@
 [programming questions in general (stack overflow - useful to google problems with this...)](https://stackoverflow.com/)
 
 [DOM manipulation - vanilla js (comparison of jquery)](http://youmightnotneedjquery.com/)
+
 [DOM manipulation - vanilla js (how to)](https://htmldom.dev/)
 
 ### main frameworks libraries
