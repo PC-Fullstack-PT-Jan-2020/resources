@@ -61,7 +61,8 @@
 
 [grid game (grid garden)](https://cssgridgarden.com/)
 
-### interview prep
+### interview prep and hands on practice
+
 [code wars (js interview practice)](https://www.codewars.com/)
 
 
