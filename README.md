@@ -92,7 +92,7 @@
 
 [Fun Fun Function (youtube channel)](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/playlists)
 
-[programming questions in general](https://stackoverflow.com/)
+[programming questions in general (stack overflow - useful to google problems with this...)](https://stackoverflow.com/)
 
 [DOM manipulation - vanilla js (comparison of jquery)](http://youmightnotneedjquery.com/)
 [DOM manipulation - vanilla js (how to)](https://htmldom.dev/)
