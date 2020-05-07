@@ -100,6 +100,8 @@
 
 [DOM manipulation - vanilla js (how to)](https://htmldom.dev/)
 
+[Build stuff for 30 days!](https://javascript30.com/)
+
 ### main frameworks libraries
 
 [React](https://reactjs.org/)
