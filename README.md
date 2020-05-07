@@ -74,6 +74,14 @@
 
 [Front End Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 
+### online tools
+
+[color picker](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+
+[box shadow generator](https://www.cssmatic.com/box-shadow)
+
+[triangle generator](http://apps.eky.hk/css-triangle-generator/)
+
 ### other website resources
 
 [free awesome redux resource (by the creator of redux on egghead.io)](https://egghead.io/courses/getting-started-with-redux)
@@ -83,3 +91,18 @@
 [Front End Masters - 40 dollars a month](https://frontendmasters.com/)
 
 [Fun Fun Function (youtube channel)](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/playlists)
+
+[programming questions in general](https://stackoverflow.com/)
+
+[DOM manipulation - vanilla js (comparison of jquery)](http://youmightnotneedjquery.com/)
+[DOM manipulation - vanilla js (how to)](https://htmldom.dev/)
+
+### main frameworks libraries
+
+[React](https://reactjs.org/)
+
+[Angular](https://angular.io/)
+
+[Vue](https://vuejs.org/)
+
+[Svelte](https://svelte.dev/)
