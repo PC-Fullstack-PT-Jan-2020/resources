@@ -2,6 +2,18 @@
 
 ### a compendium of different resources for development
 
+### internal school stuff
+
+[youtube playlist](https://www.youtube.com/playlist?list=PLa5bYMAqOz6NzPkb4tFAXDzpvFKzD0MBh)
+
+[github basics](https://github.com/PC-Fullstack-PT-Jan-2020/cheatsheet-github-commands)
+
+[github](https://github.com/PC-Fullstack-PT-Jan-2020/git-commands)
+
+[npm](https://github.com/PC-Fullstack-PT-Jan-2020/npm-commands)
+
+### general development
+
 [html, css, js general (mdn)](https://developer.mozilla.org/en-US/)
 
 ### css
