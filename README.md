@@ -15,6 +15,7 @@
 ### general development
 
 [html, css, js general (mdn)](https://developer.mozilla.org/en-US/)
+[git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ### css
 
