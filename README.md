@@ -72,6 +72,7 @@
 ### interview prep and hands on practice
 
 [code wars (js interview practice)](https://www.codewars.com/)
+[Code Wars Alternative with Mentors](https://exercism.io/)
 
 ### SQL and Express
 
@@ -93,6 +94,8 @@
 [Javascript design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 [Front End Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+[JS for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
 
 ### online tools
 
