@@ -123,6 +123,8 @@
 
 [Build stuff for 30 days!](https://javascript30.com/)
 
+[Scrimba - Course with interactive text editor/video player](https://scrimba.com/)
+
 ### Developer Road maps
 - don't let these maps discourage you, there's a lot to learn in programming on both the frontend and the backend (this is just one guide to a potential path to learn after class)
 
