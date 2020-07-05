@@ -18,7 +18,7 @@
 
 [flashcard trainer js](https://markdown-flashcard.surge.sh/)
 
-[drills](https://github.com/PC-Fullstack-PT-Jan-2020/rubric-drills-resources)
+[Rubric Based Drills](https://github.com/PC-Fullstack-PT-Jan-2020/rubric-drills-resources)
 
 [request example with axios and express](https://github.com/PC-Fullstack-PT-Jan-2020/axios-express)
 
