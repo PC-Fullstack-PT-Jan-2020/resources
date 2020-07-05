@@ -59,6 +59,8 @@
 
 [es6](http://es6-features.org/#Constants)
 
+[js documentation a bit simpler](https://javascript.info/)
+
 ### live examples and practice
 
 [codepen (html css and js snippets)](https://codepen.io/)
@@ -71,10 +73,15 @@
 
 [code wars (js interview practice)](https://www.codewars.com/)
 
-### SQL
+### SQL and Express
 
 [SQL](https://www.w3schools.com/sql/)
+[Status Codes](https://httpstatuses.com/)
+[Express documentation](https://expressjs.com/)
 
+### react
+[React Recap](https://fullstackopen.com/en/part1/introduction_to_react)
+[Duck Example](https://scrimba.com/c/c8q2petM)
 
 
 ### after school reading books
