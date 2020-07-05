@@ -18,6 +18,12 @@
 
 [flashcard trainer js](https://markdown-flashcard.surge.sh/)
 
+[drills](https://github.com/PC-Fullstack-PT-Jan-2020/rubric-drills-resources)
+
+[request example with axios and express](https://github.com/PC-Fullstack-PT-Jan-2020/axios-express)
+
+[CRUD relationship between client request, express, and sql](https://github.com/PC-Fullstack-PT-Jan-2020/express-mysql)
+
 ### general development
 
 [html, css, js general (mdn)](https://developer.mozilla.org/en-US/)
@@ -65,6 +71,11 @@
 
 [code wars (js interview practice)](https://www.codewars.com/)
 
+### SQL
+
+[SQL](https://www.w3schools.com/sql/)
+
+
 
 ### after school reading books
 
@@ -111,3 +122,5 @@
 [Vue](https://vuejs.org/)
 
 [Svelte](https://svelte.dev/)
+
+[Express](https://expressjs.com/)
