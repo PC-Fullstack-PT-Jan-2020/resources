@@ -10,7 +10,7 @@
 
 [github basics](https://github.com/PC-Fullstack-PT-Jan-2020/cheatsheet-github-commands)
 
-[github](https://github.com/PC-Fullstack-PT-Jan-2020/git-commands)
+[github commands](https://github.com/PC-Fullstack-PT-Jan-2020/git-commands)
 
 [npm](https://github.com/PC-Fullstack-PT-Jan-2020/npm-commands)
 
